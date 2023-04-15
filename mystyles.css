@@ -1,0 +1,35 @@
+
+#top{
+    text-decoration: underline;
+}
+
+a{
+    color: sienna
+}
+body{
+    color: black;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 8px solid white; 
+    padding:25px;
+    margin: 20px;
+    text-align:Left
+}
+h1{
+    font-size: 60px;
+}
+ol{
+    list-style-position: Inside;
+    font-weight: bolder;
+}
+ul{
+    list-style-position: outside;
+    font-weight: lighter;
+}
+footer{ 
+    text-align: center;
+    color: gray;
+}
